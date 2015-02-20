@@ -1,5 +1,8 @@
 # Ethereum Foundation Grants
 
+###*NOTE: This repository is just a test and does not represent a real grant scheme, as of now. When the program will be operational this note will be removed and the grant scheme will be announced officially on all our media channels.
+
+
 Propose your idea and depending on the size, scope and outlook of the project receive grants from the Ethereum Foundation to make it happen.
 
 Projects that are especially interesting to us are:
@@ -14,4 +17,3 @@ To get a view of the current proposals [head to the ZenHub Board](https://github
 
 Good luck to *everyone* and **thank you** for making the Ethereum Project what it is today!
 
-*NOTE: This repository is just a test and does not represent a real grant scheme, as of now. When the program will be operational this note will be removed and the grant scheme will be announced officially on all our media channels.
