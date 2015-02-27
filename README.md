@@ -1,4 +1,4 @@
-# Ethereum Foundation Grants
+## Ethereum Foundation Grants
 
 ###*NOTE: This repository is just a test and does not represent a real grant scheme, as of now. When the program will be operational this note will be removed and the grant scheme will be announced officially on all our media channels.
 
